@@ -6,7 +6,7 @@
 - 🌱 Currently hard learing JS specially MERN Stack 🤣
 - 👯 Looking for intership in the IT Sector in Macedonia (or Europe), preferring Web Development
 - 🥅 2021 Goals: To be a Full Stack Developer
-- ⚡ Fun fact: I love to make and experiment with diferrent types of coffee
+- ⚡ Fun fact: I love to make and experiment with different types of coffee
 
 
 
