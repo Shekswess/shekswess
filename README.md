@@ -38,14 +38,7 @@
 
 
 ---
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
-</details>
 
 [instagram]: https://www.instagram.com/jakimbojanovskiii
 [linkedin]: https://www.linkedin.com/in/bojan-jakimovski-a5224b205
