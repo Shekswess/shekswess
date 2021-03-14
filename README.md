@@ -38,7 +38,7 @@
 
 
 ---
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekswess)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/jakimbojanovskiii
 [linkedin]: https://www.linkedin.com/in/bojan-jakimovski-a5224b205
