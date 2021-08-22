@@ -14,7 +14,6 @@
 
 
 [<img align="left" alt="Shekswess | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" />][linkedin]
-[<img align="left" alt="Shekswess | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" />][instagram]
 
 <br />
 
