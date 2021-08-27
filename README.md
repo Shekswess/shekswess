@@ -8,13 +8,6 @@
 - 🥅 2021 Goals: To be a Python Programmer
 - ⚡ Fun fact: I love to make and experiment with different types of coffee and tea
 
-
-
-### Connect with me:
-
-
-[<img align="left" alt="Shekswess | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" />][linkedin]
-
 <br />
 
 ### Languages and Tools that I use:
