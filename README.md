@@ -4,8 +4,8 @@
 
 - 🔭 Currently studying CS at the Faculty of Electrical Engineering and Information Technologies in Skopje,Macedonia
 - 🌱 Learning Python 🤣
-- 👯 Looking for intership in the IT Sector in Macedonia (or Europe), preferring Web Development
-- 🥅 2021 Goals: To be a Python Programmer
+- 👯 Looking for intership in the IT Sector in Macedonia (or Europe)
+- 🥅 2021 Goals: To learn Python
 - ⚡ Fun fact: I love to make and experiment with different types of coffee and tea
 
 <br />
