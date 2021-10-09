@@ -15,7 +15,7 @@
 const bojan = {
     code: ["Javascript", "Python", "Java", "C/C++", "PHP"],
     askMeAbout: ["web dev", "ML", "app dev", "data science", "networks", "security"],
-    technologies: {
+    currentTechnologies: {
         backEnd: {
             php: ["Pure Php", "Laravel"],
             python: ["Flask", "Django"]
