@@ -39,6 +39,6 @@ const bojan = {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Sorting-Algorithm-Project&theme=midnight-purple)](https://github.com/Shekswess/Sorting-Algorithm-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Library-Project&theme=midnight-purple)](https://github.com/Shekswess/Library-Project)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekswess&show_icons=true&theme=midnight-purple&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shekswess&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shekswess&show_icons=true&theme=midnight-purple&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 
