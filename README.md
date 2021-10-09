@@ -35,7 +35,7 @@ const bojan = {
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekswess&show_icons=true&theme=midnight-purple&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shekswess&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shekswess&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=ITCompany-Python-OOP-&theme=midnight-purple)](https://github.com/Shekswess/ITCompany-Python-OOP-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Phonebook-App&theme=midnight-purple)](https://github.com/Shekswess/Phonebook-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Sorting-Algorithm-Project&theme=midnight-purple)](https://github.com/Shekswess/Sorting-Algorithm-Project)
