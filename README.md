@@ -25,7 +25,7 @@ const bojan = {
         },
         frontEnd: {
             javascript: ["Vanilla JS"]
-            Python: ["Numpy", "Scipy", "Tensorflow", "matplotlib"]
+            python: ["Numpy", "Scipy", "Tensorflow", "matplotlib"]
         },
         databases: ["MySql", "sqlite"],
     },
