@@ -24,7 +24,7 @@ const bojan = {
             java: ["Android Development"]
         },
         frontEnd: {
-            javascript: ["Vanilla JS"]
+            javascript: ["Vanilla JS"],
             python: ["Numpy", "Scipy", "Tensorflow", "matplotlib"]
         },
         databases: ["MySql", "sqlite"],
