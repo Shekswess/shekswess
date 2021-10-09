@@ -1,12 +1,12 @@
 ### Hello there, I'm Bojan Jakimovski AKA Shekswess 👋
 
-## I'm a CS Student, Developer
+## I'm a Computer Science Student !
 
-- 🔭 Currently studying CS at the Faculty of Electrical Engineering and Information Technologies in Skopje,Macedonia
-- 🌱 Learning Python 🤣
-- 👯 Looking for intership in the IT Sector in Macedonia (or Europe)
-- 🥅 2021 Goals: To learn Python
-- ⚡ Fun fact: I love to make and experiment with different types of coffee and tea
+- 🔭 Currently studying Computer Science at the Faculty of Electrical Engineering and Information Technologies in Skopje, Macedonia.
+- 🌱 Learning Python. 🤣
+- 👯 Looking for intership in the IT Sector in Macedonia (or Europe).
+- 🥅 2021 Goals: To learn Python, to get Internship !
+- ⚡ Fun fact: I love to experiment  and make different kinds of coffee and tea !
 
 <br />
 
@@ -32,7 +32,6 @@ const bojan = {
     currentFocus: "Python - Machine Learning and Data Science",
 };
 ```
-<br />
 <br />
 
 
