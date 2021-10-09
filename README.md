@@ -1,5 +1,4 @@
-## Hello there, I'm Bojan Jakimovski AKA Shekswess 👋
-## I'm a Computer Science Student !
+## Hello there, I'm Bojan Jakimovski AKA Shekswess 👋 <br/>I'm a Computer Science Student !
 
 - 🔭 Currently studying Computer Science at the Faculty of Electrical Engineering and Information Technologies in Skopje, Macedonia.
 - 🌱 Learning Python. 🤣
