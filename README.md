@@ -15,8 +15,8 @@ const bojan = {
     askMeAbout: ["web dev", "ML", "app dev", "data science", "networks", "security"],
     currentTechnologies: {
         backEnd: {
-            php: ["Pure Php", "Laravel"],
-            python: ["Flask", "Django"]
+            php: ["Pure Php"],
+            python: ["Flask"]
         },
         mobileApp: {
             java: ["Android Development"]
@@ -27,7 +27,7 @@ const bojan = {
         },
         databases: ["MySql", "sqlite"],
     },
-    currentFocus: "Python - Machine Learning and Data Science",
+    currentFocus: "Python - Machine Learning and Data Science", "Python- Network Programming"
 };
 ```
 <br />
