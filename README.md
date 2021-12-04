@@ -16,7 +16,7 @@ const bojan = {
     currentTechnologies: {
         backEnd: {
             php: ["Pure Php"],
-            python: ["Flask"]
+            python: ["FastAPI"]
         },
         mobileApp: {
             java: ["Android Development"]
