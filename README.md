@@ -11,7 +11,7 @@
 
 ```javascript
 const bojan = {
-    code: ["C","Python" ,"Javascript" ,"Java" ,"PHP"],
+    code: ["C", "Python", "Javascript" ,"Java" ,"PHP"],
     askMeAbout: ["web dev", "ML", "app dev", "data science", "networks", "security"],
     currentTechnologies: {
         backEnd: {
@@ -25,7 +25,7 @@ const bojan = {
             javascript: ["Vanilla JS"],
             python: ["Numpy", "Scipy", "matplotlib"]
         },
-        databases: ["MySql", "sqlite"],
+        databases: ["MySql", "SQLite"],
     },
     currentFocus: "Python - Machine Learning and Data Science", "Python- Network Programming"
 };
