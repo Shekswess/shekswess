@@ -23,7 +23,7 @@ const bojan = {
         },
         frontEnd: {
             javascript: ["Vanilla JS"],
-            python: ["Numpy", "Scipy", "Tensorflow", "matplotlib"]
+            python: ["Numpy", "Scipy", "matplotlib"]
         },
         databases: ["MySql", "sqlite"],
     },
