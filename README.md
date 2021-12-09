@@ -11,7 +11,7 @@
 
 ```javascript
 const bojan = {
-    code: ["Javascript", "Python", "Java", "C", "PHP"],
+    code: ["C","Python" ,"Javascript" ,"Java" ,"PHP"],
     askMeAbout: ["web dev", "ML", "app dev", "data science", "networks", "security"],
     currentTechnologies: {
         backEnd: {
