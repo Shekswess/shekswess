@@ -94,7 +94,7 @@ const bojan = {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Phonebook-App&theme=midnight-purple)](https://github.com/Shekswess/Phonebook-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Sorting-Algorithm-Project&theme=midnight-purple)](https://github.com/Shekswess/Sorting-Algorithm-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Library-Project&theme=midnight-purple)](https://github.com/Shekswess/Library-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Account-System-SQLite&theme=midnight-purple)](https://github.com/Shekswess/Account-System-SQLite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Python-Online-Book-Library&theme=midnight-purple)](https://github.com/Shekswess/Python-Online-Book-Library)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Electrical-Formulas&theme=midnight-purple)](https://github.com/Shekswess/Electrical-Formulas)
 
 <details> 
