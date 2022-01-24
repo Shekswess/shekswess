@@ -25,7 +25,7 @@ const bojan = {
             javascript: ["Vanilla JS"],
             python: ["Numpy", "Scipy", "matplotlib"]
         },
-        databases: ["MySql", "SQLite"],
+        databases: ["MySql", "SQLite", "Firebase"],
     },
     currentFocus: "Python - Machine Learning and Data Science", "Python- Network Programming"
 };
