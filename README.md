@@ -90,7 +90,7 @@ const bojan = {
 
 ## 🔥 Best projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=ITCompany-Python-OOP-&theme=midnight-purple)](https://github.com/Shekswess/ITCompany-Python-OOP-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=ElderCareApp&theme=midnight-purple)](https://github.com/Shekswess/ElderCareApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=WideHealth&theme=midnight-purple)](https://github.com/Shekswess/WideHealth)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Sorting-Algorithm-Project&theme=midnight-purple)](https://github.com/Shekswess/Sorting-Algorithm-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Library-Project&theme=midnight-purple)](https://github.com/Shekswess/Library-Project)
