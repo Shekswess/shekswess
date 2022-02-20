@@ -23,7 +23,7 @@ const bojan = {
         },
         frontEnd: {
             javascript: ["Vanilla JS"],
-            python: ["Numpy", "Scipy", "matplotlib"]
+            python: ["Numpy", "Scipy", "pandas", "matplotlib", "sklearn", "xgboost", "cl-features"]
         },
         databases: ["MySql", "SQLite", "Firebase"],
     },
@@ -91,7 +91,7 @@ const bojan = {
 ## 🔥 Best projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=ITCompany-Python-OOP-&theme=midnight-purple)](https://github.com/Shekswess/ITCompany-Python-OOP-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Phonebook-App&theme=midnight-purple)](https://github.com/Shekswess/Phonebook-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=WideHealth&theme=midnight-purple)](https://github.com/Shekswess/WideHealth)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Sorting-Algorithm-Project&theme=midnight-purple)](https://github.com/Shekswess/Sorting-Algorithm-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Library-Project&theme=midnight-purple)](https://github.com/Shekswess/Library-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Python-Online-Book-Library&theme=midnight-purple)](https://github.com/Shekswess/Python-Online-Book-Library)
