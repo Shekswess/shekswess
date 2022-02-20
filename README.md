@@ -23,7 +23,7 @@ const bojan = {
         },
         frontEnd: {
             javascript: ["Vanilla JS"],
-            python: ["Numpy", "Scipy", "pandas", "matplotlib", "sklearn", "xgboost", "cl-features"]
+            python: ["Numpy", "Scipy", "pandas", "matplotlib", "seaborn", "sklearn", "xgboost", "cl-features"]
         },
         databases: ["MySql", "SQLite", "Firebase"],
     },
