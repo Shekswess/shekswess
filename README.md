@@ -1,9 +1,9 @@
 ## 👋 Hello there, I'm Bojan Jakimovski AKA Shekswess ! <br/>📘 I'm a Computer Science Student !
 
 - 🔭 Currently studying Computer Science at the Faculty of Electrical Engineering and Information Technologies in Skopje, Macedonia.
-- 🌱 Diving in Data Science and ML in near future. 🤣
-- 👯 Looking for intership in the IT Sector in Macedonia (or Europe).
-- 🥅 2022 Goals: To master Python, to get Internship !
+- 🌱 Data Science and ML. 🤣
+- 👯 Currently an intern in Emteq Labs.
+- 🥅 2022 Goals: To master Python !
 - ⚡ Fun fact: I love to experiment  and make different kinds of coffee and tea !
 
 <br />
