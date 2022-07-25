@@ -3,8 +3,8 @@
 - 🔭 Currently studying Computer Science at the Faculty of Electrical Engineering and Information Technologies in Skopje, Macedonia.
 - 🌱 Data Science and ML. 🤣
 - 👯 Currently an intern in Emteq Labs.
-- 🥅 2022 Goals: To master Python !
-- ⚡ Fun fact: I love to experiment  and make different kinds of coffee and tea !
+- 🥅 2022 Goals: To find a job as Data Scientist
+- ⚡ Fun fact: I love to experiment and make different kinds of coffee and tea !
 
 <br />
 
@@ -23,11 +23,11 @@ const bojan = {
         },
         frontEnd: {
             javascript: ["Vanilla JS"],
-            python: ["Numpy", "Scipy", "pandas", "matplotlib", "seaborn", "sklearn", "xgboost", "cl-features"]
+            python: ["Numpy", "Scipy", "pandas", "matplotlib", "seaborn", "sklearn", "xgboost", "cl-features", "lightgbm", "keras", "tensorflow"]
         },
         databases: ["MySql", "SQLite", "Firebase"],
     },
-    currentFocus: "Python - Machine Learning and Data Science", "Python- Network Programming"
+    currentFocus: "Python - Machine Learning and Data Science", "Python - Network Programming", "Python - Web Dev"
 };
 ```
 <br />
