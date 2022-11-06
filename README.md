@@ -1,4 +1,4 @@
-## 👋 Hello there, I'm Bojan Jakimovski AKA Shekswess ! <br/>📘 I'm a Computer Science Student !
+## 👋 Hello there, I'm Bojan Jakimovski AKA Shekswess ! <br/>📘 Bachelor of Science in Electrical Engineering and Information Technologies !
 
 - 🔭 Bachelor of Science in Electrical Engineering and Information Technologies, in Computer Technologies and Engineering.
 - 🌱 Data Science, Machine Learning, Data & MLOps. 
@@ -75,13 +75,15 @@ const bojan = {
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
+
+
 ### 💻 Software and other tools
 
 <p>
+    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white](https://img.shields.io/badge/Android-3DDC84?        style=for-the-badge&logo=android&logoColor=white)"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
