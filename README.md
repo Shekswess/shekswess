@@ -1,9 +1,9 @@
 ## 👋 Hello there, I'm Bojan Jakimovski AKA Shekswess ! <br/>📘 I'm a Computer Science Student !
 
-- 🔭 Currently studying Computer Science at the Faculty of Electrical Engineering and Information Technologies in Skopje, Macedonia.
-- 🌱 Data Science and ML. 
-- 👯 Currently junior data scientist in emteq labs
-- 🥅 2022 Goals: To find a job as Data Scientist
+- 🔭 Bachelor of Science in Electrical Engineering and Information Technologies, in Computer Technologies and Engineering.
+- 🌱 Data Science, Machine Learning, Data & MLOps. 
+- 👯 Currently Junior Data Scientist +  Junior Data & MLOps in emteq labs
+- 🥅 2023 Goals: To expend my knowledge in statistics
 - ⚡ Fun fact: I love to experiment and make different kinds of coffee and tea !
 
 <br />
@@ -11,11 +11,10 @@
 
 ```javascript
 const bojan = {
-    code: ["C", "Python", "Javascript" ,"Java" ,"PHP"],
-    askMeAbout: ["web dev", "ML", "app dev", "data science", "networks", "security"],
+    code: ["C", "Python", "Javascript" ,"Java"],
+    askMeAbout: ["web dev", ,"app dev", "data science", "machine learning" "networks", "security", "cloud"],
     currentTechnologies: {
         backEnd: {
-            php: ["Pure Php"],
             python: ["FastAPI"]
         },
         mobileApp: {
@@ -23,11 +22,12 @@ const bojan = {
         },
         frontEnd: {
             javascript: ["Vanilla JS"],
-            python: ["Numpy", "Scipy", "pandas", "matplotlib", "seaborn", "sklearn", "xgboost", "cl-features", "lightgbm", "keras", "tensorflow"]
+            python: ["Numpy", "Scipy", "pandas", "matplotlib", "plotly", "seaborn", "sklearn", "xgboost", "cl-features", "lightgbm", "keras", "tensorflow",                               "tensoflow-federated" ,"flower", "boto3", "s3fs"]
         },
         databases: ["MySql", "SQLite", "Firebase"],
+        cloud : ["AWS S3", "AWS Sagemaker", "AWS IAM"]
     },
-    currentFocus: "Python - Machine Learning and Data Science", "Python - Network Programming", "Python - Web Dev"
+    currentFocus: "Python - Machine Learning and Data Science", "AWS - Cloud storage, Data & MLOps"
 };
 ```
 <br />
@@ -88,14 +88,6 @@ const bojan = {
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## 🔥 Best projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=ElderCareApp&theme=midnight-purple)](https://github.com/Shekswess/ElderCareApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=WideHealth&theme=midnight-purple)](https://github.com/Shekswess/WideHealth)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Sorting-Algorithm-Project&theme=midnight-purple)](https://github.com/Shekswess/Sorting-Algorithm-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Library-Project&theme=midnight-purple)](https://github.com/Shekswess/Library-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Python-Online-Book-Library&theme=midnight-purple)](https://github.com/Shekswess/Python-Online-Book-Library)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shekswess&repo=Electrical-Formulas&theme=midnight-purple)](https://github.com/Shekswess/Electrical-Formulas)
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
