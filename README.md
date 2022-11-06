@@ -22,7 +22,7 @@ const bojan = {
         },
         frontEnd: {
             javascript: ["Vanilla JS"],
-            python: ["Numpy", "Scipy", "pandas", "matplotlib", "plotly", "seaborn", "sklearn", "xgboost", "cl-features", "lightgbm", "keras", "tensorflow",                               "tensoflow-federated" ,"flower", "boto3", "s3fs"]
+            python: ["Numpy", "Scipy", "pandas", "matplotlib", "plotly", "seaborn", "sklearn", "xgboost", "cl-features", "lightgbm", "keras", "tensorflow", "tensoflow-federated" ,"flower", "boto3", "s3fs"]
         },
         databases: ["MySql", "SQLite", "Firebase"],
         cloud : ["AWS S3", "AWS Sagemaker", "AWS IAM"]
