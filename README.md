@@ -22,6 +22,8 @@ const bojan = {
         },
         frontEnd: {
             javascript: ["Vanilla JS"],
+        },
+        dataScience_machineLearning: {
             python: ["Numpy", "Scipy", "pandas", "matplotlib", "plotly", "seaborn", "sklearn", "xgboost", "cl-features", "lightgbm", "keras", "tensorflow", "tensoflow-federated" ,"flower", "boto3", "s3fs"]
         },
         databases: ["MySql", "SQLite", "Firebase"],
