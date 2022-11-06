@@ -80,7 +80,7 @@ const bojan = {
 ### 💻 Software and other tools
 
 <p>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white](https://img.shields.io/badge/Android-3DDC84?        style=for-the-badge&logo=android&logoColor=white)"></a>
+    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
