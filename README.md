@@ -3,7 +3,7 @@
 - 🔭 Bachelor of Science in Electrical Engineering and Information Technologies, in Computer Technologies and Engineering.
 - 🌱 Data Science, Machine Learning, Data & MLOps. 
 - 👯 Currently Junior Data Scientist +  Junior Data & MLOps in emteq labs
-- 🥅 2023 Goals: To expend my knowledge in statistics
+- 🥅 2023 Goals: To expend my knowledge in statistics, data engineering and cloud in general
 - ⚡ Fun fact: I love to experiment and make different kinds of coffee and tea !
 
 <br />
@@ -11,30 +11,30 @@
 
 ```javascript
 const bojan = {
-    code: ["C", "Python", "Javascript" ,"Java"],
-    askMeAbout: ["web dev", ,"app dev", "data science", "machine learning" "networks", "security", "cloud"],
+    code: ["C", "Python", "Javascript", "Java"],
+    askMeAbout: ["web dev", "app dev", "data science", "machine learning", "networks", "security", "cloud"],
     currentTechnologies: {
         backEnd: {
-            python: ["FastAPI"]
+            python: ["Flask", "FastAPI"]
         },
         mobileApp: {
             java: ["Android Development"]
         },
         frontEnd: {
-            javascript: ["Vanilla JS"],
+            javascript: ["Vanilla Javascript", "jQuery"],
         },
         dataScience_machineLearning: {
             python: ["Numpy", "Scipy", "pandas", "matplotlib", "plotly", "seaborn", "sklearn", "xgboost", "cl-features", "lightgbm", "keras", "tensorflow", "tensoflow-federated" ,"flower", "boto3", "s3fs"]
         },
         databases: ["MySql", "SQLite", "Firebase"],
-        cloud : ["AWS S3", "AWS Sagemaker", "AWS IAM"]
+        cloud : ["AWS S3", "AWS Sagemaker", "AWS IAM", "AWS Lambda", "AWS DynamoDB"]
     },
     currentFocus: "Python - Machine Learning and Data Science", "AWS - Cloud storage, Data & MLOps"
 };
 ```
 <br />
 
-## 🛠️ Tools that I have used in my journey as developer
+## 🛠️ Some of the tools that I have used in my journey as developer
 
 ### 👨‍💻 Programming languages
 
