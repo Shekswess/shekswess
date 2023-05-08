@@ -23,11 +23,12 @@ const bojan = {
         frontEnd: {
             javascript: ["Vanilla Javascript", "jQuery"],
         },
-        dataScience_machineLearning: {
-            python: ["Numpy", "Scipy", "pandas", "matplotlib", "plotly", "seaborn", "sklearn", "xgboost", "cl-features", "lightgbm", "keras", "tensorflow", "tensoflow-federated" ,"flower", "boto3", "s3fs"]
+        dataScience_machineLearning_dataMlOps: {
+            python: ["Numpy", "Scipy", "pandas", "matplotlib", "plotly", "seaborn", "sklearn", "xgboost", "cl-features", "lightgbm", "keras", "tensorflow", "tensoflow-federated" ,"flower", "boto3", "s3fs"],
+            config:["serverless","docker"]
         },
         databases: ["MySql", "SQLite", "Firebase"],
-        cloud : ["AWS S3", "AWS Sagemaker", "AWS IAM", "AWS Lambda", "AWS DynamoDB"]
+        cloud : ["AWS S3", "AWS Sagemaker", "AWS IAM", "AWS Lambda", "AWS DynamoDB", "AWS EC2", "AWS Elastic Container", "AWS API Gateway"],
     },
     currentFocus: "Python - Machine Learning and Data Science", "AWS - Cloud storage, Data & MLOps"
 };
