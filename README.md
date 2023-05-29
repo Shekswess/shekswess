@@ -41,6 +41,6 @@ In the realm of machine learning, data science, and MLOps, I leverage various li
 I'm excited to collaborate, learn, and share ideas with fellow developers. Feel free to reach out to me on the following platforms:
 
 - LinkedIn: [Bojan Jakimovski](https://www.linkedin.com/in/bojan-jakimovski/)
-- Email: jakimovski.bojan@outlook.com
+- Email: jakimovski_bojan@outlook.com
 
 Looking forward to connecting with you and exploring exciting opportunities together! 🚀
