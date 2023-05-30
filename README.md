@@ -19,6 +19,8 @@ I have hands-on experience with various AWS services, including:
 - AWS EC2: Scalable virtual servers in the cloud.
 - AWS Elastic Container Service: Orchestrating and managing containerized applications.
 - AWS API Gateway: Building and managing APIs for your applications.
+- AWS Cognito: Adding authentication and authorization to your applications.
+- AWS CloudFormation: Managing and provisioning your AWS infrastructure as code.
 
 ## Tools and Frameworks 🛠️
 Here's a glimpse of the tools and frameworks I work with:
