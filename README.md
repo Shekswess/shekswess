@@ -26,16 +26,18 @@ Here's a glimpse of the tools and frameworks I work with:
 - Docker: Building and deploying applications in containers for easy scalability and portability.
 - Serverless Framework: Simplifying the deployment and management of serverless applications.
 - Flask: My go-to Python framework for building robust and efficient backends.
-- Vanilla JavaScript + jQuery: Crafting interactive and responsive frontend experiences.
+- jQuery: Crafting interactive and responsive frontend experiences.
 
 ## Machine Learning and Data Science 🤖
-In the realm of machine learning, data science, and MLOps, I leverage various libraries and frameworks:
+In the realm of machine learning, data science, Data&MLOps, I leverage various libraries and frameworks:
 
 - Numpy, Scipy, and Pandas: Fundamental libraries for numerical computing and data manipulation.
 - Matplotlib, Plotly, and Seaborn: Creating stunning visualizations to gain insights from data.
 - Scikit-learn, XGBoost, and LightGBM: Powerful machine learning libraries for classification, regression, and more.
 - Keras and TensorFlow: Building and training deep learning models.
 - TensorFlow Federated and Flower: Exploring federated learning for distributed machine learning.
+- MLflow: Open-source platform for managing and tracking machine learning experiments.
+- DVC: Open-source version control system for machine learning projects.
 
 ## Let's Connect! 🤝
 I'm excited to collaborate, learn, and share ideas with fellow developers. Feel free to reach out to me on the following platforms:
