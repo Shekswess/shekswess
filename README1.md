@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm  Bojan Jakimovski 
 
 ## About Me
-I'm a Software Engineer and Data & MLOps Engineer with a passion for building robust and scalable applications. I enjoy working with a wide range of technologies, including Python, JavaScript, C. Currently, I'm diving deep into Cloud technologies. Some facts about me:
+I'm a Software Engineer and Data & MLOps Engineer with a passion for building robust and scalable applications. I enjoy working with a wide range of technologies, including Python, JavaScript, C, and Rust. Currently, I'm diving deep into Rust and exploring its amazing capabilities. Some facts about me:
 
 - 🔭 Bachelor of Science in Electrical Engineering and Information Technologies, in Computer Technologies and Engineering.
 - 👨‍💻 Software Engineer and Data & MLOps Engineer at emteqlabs.
@@ -19,8 +19,6 @@ I have hands-on experience with various AWS services, including:
 - AWS EC2: Scalable virtual servers in the cloud.
 - AWS Elastic Container Service: Orchestrating and managing containerized applications.
 - AWS API Gateway: Building and managing APIs for your applications.
-- AWS Cognito: Adding authentication and authorization to your applications.
-- AWS CloudFormation: Managing and provisioning your AWS infrastructure as code.
 
 ## Tools and Frameworks 🛠️
 Here's a glimpse of the tools and frameworks I work with:
@@ -28,18 +26,16 @@ Here's a glimpse of the tools and frameworks I work with:
 - Docker: Building and deploying applications in containers for easy scalability and portability.
 - Serverless Framework: Simplifying the deployment and management of serverless applications.
 - Flask: My go-to Python framework for building robust and efficient backends.
-- jQuery: Crafting interactive and responsive frontend experiences.
+- Vanilla JavaScript + jQuery: Crafting interactive and responsive frontend experiences.
 
 ## Machine Learning and Data Science 🤖
-In the realm of machine learning, data science, Data&MLOps, I leverage various libraries and frameworks:
+In the realm of machine learning, data science, and MLOps, I leverage various libraries and frameworks:
 
 - Numpy, Scipy, and Pandas: Fundamental libraries for numerical computing and data manipulation.
 - Matplotlib, Plotly, and Seaborn: Creating stunning visualizations to gain insights from data.
 - Scikit-learn, XGBoost, and LightGBM: Powerful machine learning libraries for classification, regression, and more.
 - Keras and TensorFlow: Building and training deep learning models.
 - TensorFlow Federated and Flower: Exploring federated learning for distributed machine learning.
-- MLflow: Open-source platform for managing and tracking machine learning experiments.
-- DVC: Open-source version control system for machine learning projects.
 
 ## Let's Connect! 🤝
 I'm excited to collaborate, learn, and share ideas with fellow developers. Feel free to reach out to me on the following platforms:
