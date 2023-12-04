@@ -1,12 +1,26 @@
 # Hi there! 👋 I'm  Bojan Jakimovski 
 
 ## About Me
-I'm a Software Engineer and Data & MLOps Engineer with a passion for building robust and scalable applications. I enjoy working with a wide range of technologies, including Python, JavaScript, C. Currently, I'm diving deep into Cloud technologies. Some facts about me:
+I'm a Software Engineer and Data & MLOps Engineer with a passion for building robust and scalable applications. Some facts about me:
 
-- 🔭 Bachelor of Science in Electrical Engineering and Information Technologies, in Computer Technologies and Engineering.
+- 🔭 Master of Science student in Electrical Engineering and Information Technologies, specializing in Dedicated Computer Systems
 - 👨‍💻 Software Engineer and Data & MLOps Engineer at emteqlabs.
-- 🥅 2023 Goals: To expend my knowledge in cloud computing, machine learning, and data science.
+- 🥅 2024 Goals: To expend my knowledge in  Machine Learning, Deep Learning, Federated Learning and Cloud Computing.
 - ⚡ Fun fact: I love to experiment and make different kinds of coffee and tea !
+
+## Areas of Interest 🤓
+- Machine Learning & Deep Learning
+- Federated Learning
+- ML Engineering & MLOps
+- Cloud Computing
+- Information Security
+- AI in Healthcare
+- Human-Computer Interaction (HCI)
+
+## Go-to Languages 🖥️
+- Python
+- Javascript
+- C
 
 ## Cloud Platforms ☁️
 I have hands-on experience with various AWS services, including:
@@ -26,25 +40,27 @@ I have hands-on experience with various AWS services, including:
 Here's a glimpse of the tools and frameworks I work with:
 
 - Docker: Building and deploying applications in containers for easy scalability and portability.
+- Pulumi: IaaC that enables to define, deploy and manage cloud infrastructure using programming languages.
 - Serverless Framework: Simplifying the deployment and management of serverless applications.
 - Flask: My go-to Python framework for building robust and efficient backends.
 - jQuery: Crafting interactive and responsive frontend experiences.
 
-## Machine Learning and Data Science 🤖
-In the realm of machine learning, data science, Data&MLOps, I leverage various libraries and frameworks:
+## Machine Learning, Deep Learning, Federated Learning, Data Science, Data&MLOps 🤖
+In the realm of Machine Learning, Deep Learning, Federated Learning, Data Science, Data&MLOps, I leverage various libraries and frameworks:
 
 - Numpy, Scipy, and Pandas: Fundamental libraries for numerical computing and data manipulation.
 - Matplotlib, Plotly, and Seaborn: Creating stunning visualizations to gain insights from data.
-- Scikit-learn, XGBoost, and LightGBM: Powerful machine learning libraries for classification, regression, and more.
-- Keras and TensorFlow: Building and training deep learning models.
-- TensorFlow Federated and Flower: Exploring federated learning for distributed machine learning.
+- Scikit-learn, XGBoost, and LightGBM: Powerful Machine Learning libraries for classification, regression, and more.
+- Keras and TensorFlow: Building and training Deep Learning models.
+- TensorFlow Federated and Flower: Exploring Federated Learning for Distributed Machine Learning.
 - MLflow: Open-source platform for managing and tracking machine learning experiments.
-- DVC: Open-source version control system for machine learning projects.
+- DVC: Open-source version control system for Machine Learning projects.
 
 ## Let's Connect! 🤝
-I'm excited to collaborate, learn, and share ideas with fellow developers. Feel free to reach out to me on the following platforms:
+I am always eager to expand my knowledge and collaborate on challenging projects. Feel free to reach out to me if you're interested in potential collaborations on the following platforms:
 
 - LinkedIn: [Bojan Jakimovski](https://www.linkedin.com/in/bojan-jakimovski/)
+- Research Gate: [Bojan Jakimovski](https://www.researchgate.net/profile/Bojan-Jakimovski)
 - Email: jakimovski_bojan@outlook.com
 
 Looking forward to connecting with you and exploring exciting opportunities together! 🚀
