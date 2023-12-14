@@ -11,7 +11,7 @@ I'm a Software Engineer and Data & MLOps Engineer with a passion for building ro
 ## Areas of Interest 🤓
 - Machine Learning & Deep Learning
 - Federated Learning
-- ML Engineering & MLOps
+- Data&MLOps
 - Cloud Computing
 - Information Security
 - AI in Healthcare
