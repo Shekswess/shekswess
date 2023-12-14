@@ -55,6 +55,7 @@ In the realm of Machine Learning, Deep Learning, Federated Learning, Data Scienc
 - TensorFlow Federated and Flower: Exploring Federated Learning for Distributed Machine Learning.
 - MLflow: Open-source platform for managing and tracking machine learning experiments.
 - DVC: Open-source version control system for Machine Learning projects.
+- Hugging Face: Platform for building, training and deploying Machine Learning models
 
 ## Let's Connect! 🤝
 I am always eager to expand my knowledge and collaborate on challenging projects. Feel free to reach out to me if you're interested in potential collaborations on the following platforms:
