@@ -43,7 +43,7 @@ Here's a glimpse of the tools and frameworks I work with:
 - Pulumi: IaaC that enables to define, deploy and manage cloud infrastructure using programming languages.
 - Serverless Framework: Simplifying the deployment and management of serverless applications.
 - Flask: My go-to Python framework for building robust and efficient backends.
-- jQuery: Crafting interactive and responsive frontend experiences.
+- jQuery or React: Crafting interactive and responsive frontend experiences.
 
 ## Machine Learning, Deep Learning, Federated Learning, Data Science, Data&MLOps 🤖
 In the realm of Machine Learning, Deep Learning, Federated Learning, Data Science, Data&MLOps, I leverage various libraries and frameworks:
@@ -56,6 +56,7 @@ In the realm of Machine Learning, Deep Learning, Federated Learning, Data Scienc
 - MLflow: Open-source platform for managing and tracking machine learning experiments.
 - DVC: Open-source version control system for Machine Learning projects.
 - Hugging Face: Platform for building, training and deploying Machine Learning models
+- Langchain (Embedchain): Powerful python libraries for LLMs
 
 ## Let's Connect! 🤝
 I am always eager to expand my knowledge and collaborate on challenging projects. Feel free to reach out to me if you're interested in potential collaborations on the following platforms:
