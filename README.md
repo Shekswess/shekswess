@@ -54,7 +54,6 @@ In the realm of Machine Learning, Deep Learning, Federated Learning, Data Scienc
 - Keras and TensorFlow: Building and training Deep Learning models.
 - TensorFlow Federated and Flower: Exploring Federated Learning for Distributed Machine Learning.
 - MLflow: Open-source platform for managing and tracking machine learning experiments.
-- DVC: Open-source version control system for Machine Learning projects.
 - Hugging Face: Platform for building, training and deploying Machine Learning models
 - Langchain (Embedchain): Powerful python libraries for LLMs
 
