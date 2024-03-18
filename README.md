@@ -4,7 +4,7 @@
 I'm a Software Engineer and Data & MLOps Engineer with a passion for building robust and scalable applications. Some facts about me:
 
 - 🔭 Student pursuing a Master’s Degree in Electrical Engineering and Information Technologies, specializing in Dedicated Computer Systems
-- 👨‍💻 Software Engineer and Data & MLOps Engineer at emteqlabs.
+- 👨‍💻 Software Engineer and Data & MLOps Engineer.
 - 🥅 2024 Goals: To expend my knowledge in  Machine Learning, Deep Learning, Federated Learning and Cloud Computing.
 - ⚡ Fun fact: I love to experiment and make different kinds of coffee and tea !
 
