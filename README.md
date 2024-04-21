@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm  Bojan Jakimovski 
 
 ## About Me
-I'm a Software Engineer and Data & MLOps Engineer with a passion for building robust and scalable applications. Some facts about me:
+I'm a Advanced ML Engineer with a passion for building robust and scalable applications. Some facts about me:
 
 - 🔭 Student pursuing a Master’s Degree in Electrical Engineering and Information Technologies, specializing in Dedicated Computer Systems
 - 👨‍💻 Software Engineer and Data & MLOps Engineer.
@@ -15,7 +15,6 @@ I'm a Software Engineer and Data & MLOps Engineer with a passion for building ro
 - Cloud Computing
 - Information Security
 - AI in Healthcare
-- Human-Computer Interaction (HCI)
 
 ## Go-to Languages 🖥️
 - Python
