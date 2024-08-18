@@ -59,7 +59,7 @@ machine_learning:
     - Hugging Face: Platform for building, training, and deploying any kind of Machine Learning models.
     - Unsloth: Optimization of the resources needed for training and finetuning of LLMs.
     - Langchain & Llamaindex: Orchestration frameworks for LLM based applications
-    - Ragas:Framework that evaluates Retrieval Augmented Generation (RAG) systems.
+    - Ragas: Framework that evaluates Retrieval Augmented Generation (RAG) systems.
 ```
 
 ## GitHub Stats 📊
