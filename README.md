@@ -4,57 +4,63 @@
 I'm a Advanced ML Engineer with a passion for building robust and scalable applications. Some facts about me:
 
 - 🔭 Student pursuing a Master’s Degree in Electrical Engineering and Information Technologies, specializing in Dedicated Computer Systems
-- 👨‍💻 Advanced ML Engineer focusing MLOps.
-- 🥅 2024 Goals: To expend my knowledge in  Machine Learning, Deep Learning, Federated Learning and Cloud Computing.
+- 👨‍💻 Advanced ML Engineer working on MLOps and GenAI solutions.
+- 🥅 2024 Goals: To expend my knowledge in Machine Learning, Deep Learning, Federated Learning, MLOps and Cloud Computing.
 - ⚡ Fun fact: I love to experiment and make different kinds of coffee and tea !
 
-## Areas of Interest 🤓
-- Machine Learning & Deep Learning
-- Federated Learning
-- Data&MLOps
-- Cloud Computing
-- Information Security
-- AI in Healthcare
+## Expertise 🎯
+```yaml
 
-## Go-to Languages 🖥️
-- Python
-- Javascript
-- C
+go_to_languages:
+  - Python
+  - Javascript
+  - C
 
-## Cloud Platforms ☁️
-I have hands-on experience with various AWS services, including:
+cloud_services:
+  description: Hands-on experience with various AWS services
+  services:
+    - AWS CloudFormation: Managing and provisioning your AWS infrastructure as code.
+    - AWS IAM: Managing access and permissions for your AWS resources.
+    - AWS Cognito: Adding authentication and authorization to your applications.
+    - AWS S3: Scalable object storage for your applications.
+    - AWS ECR: Managed container image registry.
+    - AWS DynamoDB: NoSQL database for high-performance applications.
+    - AWS RDS: Managed relational database service for MySQL, PostgreSQL, and other databases.
+    - AWS Lambda: Running serverless functions in the cloud.
+    - AWS EC2: Scalable virtual servers in the cloud.
+    - AWS ECS: Orchestrating and managing containerized applications.
+    - AWS API Gateway: Building and managing APIs for your applications.
+    - AWS SageMaker: Building, training, orchestrating and deploying machine learning models and pipelines.
+    - AWS Bedrock: Fully managed service that offers a choice of high-performing foundation LLMs.
+    
 
-- AWS S3: Scalable object storage for your applications.
-- AWS SageMaker: Building, training, and deploying machine learning models.
-- AWS Lambda: Running serverless functions in the cloud.
-- AWS IAM: Managing access and permissions for your AWS resources.
-- AWS DynamoDB: NoSQL database for high-performance applications.
-- AWS EC2: Scalable virtual servers in the cloud.
-- AWS Elastic Container Service: Orchestrating and managing containerized applications.
-- AWS API Gateway: Building and managing APIs for your applications.
-- AWS Cognito: Adding authentication and authorization to your applications.
-- AWS CloudFormation: Managing and provisioning your AWS infrastructure as code.
+devops_and_fullstack:
+  description: Libraries, Tools, Frameworks leveraged for DevOps and FullStack
+  libraries_tools_frameworks:
+    - Docker: Building and deploying applications in containers for easy scalability and portability.
+    - CDK & Pulumi: Infrastructure as Code (IaC) tools for defining, deploying, and managing cloud infrastructure.
+    - Serverless Framework: Simplifying the deployment and management of serverless applications.
+    - GitHub Actions: Automating CI/CD workflows.
+    - Flask & FastAPI: My go-to Python frameworks for building robust and efficient backends.
+    - jQuery or React: Crafting interactive and responsive frontend experiences.
+    - Streamlit: 
 
-## Tools and Frameworks 🛠️
-Here's a glimpse of the tools and frameworks I work with:
-
-- Docker: Building and deploying applications in containers for easy scalability and portability.
-- Pulumi: IaaC that enables to define, deploy and manage cloud infrastructure using programming languages.
-- Serverless Framework: Simplifying the deployment and management of serverless applications.
-- Flask: My go-to Python framework for building robust and efficient backends.
-- jQuery or React: Crafting interactive and responsive frontend experiences.
-
-## Machine Learning, Deep Learning, Federated Learning, Data Science, Data&MLOps 🤖
-In the realm of Machine Learning, Deep Learning, Federated Learning, Data Science, Data&MLOps, I leverage various libraries and frameworks:
-
-- Numpy, Scipy, and Pandas: Fundamental libraries for numerical computing and data manipulation.
-- Matplotlib, Plotly, and Seaborn: Creating stunning visualizations to gain insights from data.
-- Scikit-learn, XGBoost, and LightGBM: Powerful Machine Learning libraries for classification, regression, and more.
-- Keras and TensorFlow: Building and training Deep Learning models.
-- TensorFlow Federated and Flower: Exploring Federated Learning for Distributed Machine Learning.
-- MLflow: Open-source platform for managing and tracking machine learning experiments.
-- Hugging Face: Platform for building, training and deploying Machine Learning models
-- Langchain (Embedchain): Powerful python libraries for LLMs
+machine_learning:
+  description: Libraries, Tools, Frameworks leveraged for Machine Learning, Deep Learning, Federated Learning, Data Science, and Data & MLOps.
+  libraries_tools_frameworks:
+    - Numpy, Scipy, Pandas and PySpark: Fundamental libraries for numerical computing and data manipulation.
+    - Matplotlib, Plotly, and Seaborn: Creating stunning visualizations to gain insights from data.
+    - DVC: Open-source, platform-agnostic library for version control of data.
+    - Scikit-learn, XGBoost, and LightGBM: Powerful Machine Learning libraries for classification, regression, and more.
+    - Keras, TensorFlow and PyTorch: Building, developing and training Deep Learning models.
+    - Flower: Exploring Federated Learning for Distributed Machine Learning.
+    - MLflow: Open-source platform for managing and tracking machine learning experiments.
+    - LangFuse: Open-source platform for LLM monitoring, observability & tracing.
+    - Hugging Face: Platform for building, training, and deploying any kind of Machine Learning models.
+    - Unsloth: Optimization of the resources needed for training and finetuning of LLMs.
+    - Langchain & Llamaindex: Orchestration frameworks for LLM based applications
+    - Ragas:Framework that evaluates Retrieval Augmented Generation (RAG) systems.
+```
 
 ## Let's Connect! 🤝
 I am always eager to expand my knowledge and collaborate on challenging projects. Feel free to reach out to me if you're interested in potential collaborations on the following platforms:
@@ -64,3 +70,14 @@ I am always eager to expand my knowledge and collaborate on challenging projects
 - Email: jakimovski_bojan@outlook.com
 
 Looking forward to connecting with you and exploring exciting opportunities together! 🚀
+
+## Stats 📊
+<p align="center">
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shekswess&hide_border=true&theme=transparent" /> 
+</p>
+
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shekswess&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shekswess&theme=transparent&utcOffset=2" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shekswess&theme=transparent" height="180em" alt="Commitments"/>
+</div>
