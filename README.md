@@ -62,16 +62,7 @@ machine_learning:
     - Ragas:Framework that evaluates Retrieval Augmented Generation (RAG) systems.
 ```
 
-## Let's Connect! 🤝
-I am always eager to expand my knowledge and collaborate on challenging projects. Feel free to reach out to me if you're interested in potential collaborations on the following platforms:
-
-- LinkedIn: [Bojan Jakimovski](https://www.linkedin.com/in/bojan-jakimovski/)
-- Research Gate: [Bojan Jakimovski](https://www.researchgate.net/profile/Bojan-Jakimovski)
-- Email: jakimovski_bojan@outlook.com
-
-Looking forward to connecting with you and exploring exciting opportunities together! 🚀
-
-## Stats 📊
+## GitHub Stats 📊
 <p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shekswess&hide_border=true&theme=transparent" /> 
 </p>
@@ -81,3 +72,12 @@ Looking forward to connecting with you and exploring exciting opportunities toge
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shekswess&theme=transparent&utcOffset=2" height="180em" alt="Time Graph"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shekswess&theme=transparent" height="180em" alt="Commitments"/>
 </div>
+
+## Let's Connect! 🤝
+I am always eager to expand my knowledge and collaborate on challenging projects. Feel free to reach out to me if you're interested in potential collaborations on the following platforms:
+
+- LinkedIn: [Bojan Jakimovski](https://www.linkedin.com/in/bojan-jakimovski/)
+- Research Gate: [Bojan Jakimovski](https://www.researchgate.net/profile/Bojan-Jakimovski)
+- Email: jakimovski_bojan@outlook.com
+
+Looking forward to connecting with you and exploring exciting opportunities together! 🚀
