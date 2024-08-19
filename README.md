@@ -5,7 +5,7 @@ I'm a Advanced ML Engineer with a passion for building robust and scalable appli
 
 - 🔭 Student pursuing a Master’s Degree in Electrical Engineering and Information Technologies, specializing in Dedicated Computer Systems
 - 👨‍💻 Advanced ML Engineer working on MLOps and GenAI solutions.
-- 🥅 2024 Goals: To expend my knowledge in Machine Learning, Deep Learning, Federated Learning, MLOps and Cloud Computing.
+- 🥅 2024 Goals: To expend my knowledge in Machine Learning, Deep Learning, Federated Learning, Data & MLOps and Cloud Computing.
 - ⚡ Fun fact: I love to experiment and make different kinds of coffee and tea !
 
 ## Expertise 🎯
