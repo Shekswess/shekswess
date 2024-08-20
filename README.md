@@ -32,7 +32,6 @@ cloud_services:
     - AWS API Gateway: Building and managing APIs for your applications.
     - AWS SageMaker: Building, training, orchestrating and deploying machine learning models and pipelines.
     - AWS Bedrock: Fully managed service that offers a choice of high-performing foundation LLMs.
-    
 
 devops_and_fullstack:
   description: Libraries, Tools, Frameworks leveraged for DevOps and FullStack
@@ -43,7 +42,7 @@ devops_and_fullstack:
     - GitHub Actions: Automating CI/CD workflows.
     - Flask & FastAPI: My go-to Python frameworks for building robust and efficient backends.
     - jQuery or React: Crafting interactive and responsive frontend experiences.
-    - Streamlit: 
+    - Streamlit: Transforming Python code into interactive web apps.
 
 machine_learning:
   description: Libraries, Tools, Frameworks leveraged for Machine Learning, Deep Learning, Federated Learning, Data Science, and Data & MLOps.
