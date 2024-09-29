@@ -76,6 +76,7 @@ machine_learning:
 I am always eager to expand my knowledge and collaborate on challenging projects. Feel free to reach out to me if you're interested in potential collaborations on the following platforms:
 
 - LinkedIn: [Bojan Jakimovski](https://www.linkedin.com/in/bojan-jakimovski/)
+- Hugging Face: [Bojan Jakimovski](https://huggingface.co/Shekswess)
 - Research Gate: [Bojan Jakimovski](https://www.researchgate.net/profile/Bojan-Jakimovski)
 - Email: [jakimovski_bojan@outlook.com](mailto:jakimovski_bojan@outlook.com)
 - Personal blog: [My Personal Blog](https://shekswess.github.io/)
