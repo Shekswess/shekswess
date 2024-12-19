@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm  Bojan Jakimovski 
 
 ## About Me
-I'm a Senior ML Engineer with a passion for building robust and scalable applications. Some facts about me:
+I'm a Senior Machine Learning Engineer with a passion for building robust and scalable applications. Some facts about me:
 
-- 🔭 Student pursuing a Master’s Degree in Electrical Engineering and Information Technologies, specializing in Dedicated Computer Systems
+- 🔭 Master’s Degree graduate in Electrical Engineering and Information Technologies, specializing in Dedicated Computer Systems
 - 👨‍💻 Senior ML Engineer working on MLOps and GenAI solutions.
 - 🥅 2024 Goals: To expend my knowledge in Machine Learning, Deep Learning, Federated Learning, Data & MLOps and Cloud Computing.
 - ⚡ Fun fact: I love to experiment and make different kinds of coffee and tea !
