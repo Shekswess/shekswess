@@ -5,7 +5,7 @@ I'm a Senior Machine Learning Engineer with a passion for building robust and sc
 
 - 🔭 Master’s Degree graduate in Electrical Engineering and Information Technologies, specializing in Dedicated Computer Systems
 - 👨‍💻 Senior ML Engineer working on MLOps and GenAI solutions.
-- 🥅 2024 Goals: To expend my knowledge in Machine Learning, Deep Learning, Federated Learning, Data & MLOps and Cloud Computing.
+- 🥅 2025 Goals: Research in the field of Synthetic Data Generation, Small Language Models and Systems based on Agentic Behaviour 
 - ⚡ Fun fact: I love to experiment and make different kinds of coffee and tea !
 
 ## Expertise 🎯
