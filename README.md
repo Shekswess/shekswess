@@ -63,7 +63,7 @@ machine_learning:
 
 ## GitHub Stats 📊
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shekswess&hide_border=true&theme=transparent" /> 
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shekswess&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <div align="center">
