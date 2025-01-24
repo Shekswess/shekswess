@@ -62,9 +62,6 @@ machine_learning:
 ```
 
 ## GitHub Stats 📊
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shekswess&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
-</p>
 
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shekswess&theme=transparent" height="180em" alt="Stats"/>
