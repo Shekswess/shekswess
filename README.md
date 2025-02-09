@@ -5,15 +5,16 @@ I'm a Senior Machine Learning Engineer with a passion for building robust and sc
 
 - 🔭 Master’s Degree graduate in Electrical Engineering and Information Technologies, specializing in Dedicated Computer Systems
 - 👨‍💻 Senior ML Engineer working on MLOps and GenAI solutions.
-- 🥅 2025 Goals: Research in the field of Synthetic Data Generation, Small Language Models and Systems based on Agentic Behaviour 
-- ⚡ Fun fact: I love to experiment and make different kinds of coffee and tea !
+- ⭐ 8x AWS Certified, demonstrating extensive expertise across various AWS services.
+- 🥅 2025 Goals: Research in the field of Synthetic Data Generation, Small Language Models, Post-Training.
+- ⚡ Fun fact: I love to experiment and make different kinds of coffee and tea!
 
 ## Expertise 🎯
 ```yaml
 
 go_to_languages:
   - Python
-  - Javascript
+  - Javascript (TypeScript)
   - C
 
 cloud_services:
@@ -47,18 +48,23 @@ devops_and_fullstack:
 machine_learning:
   description: Libraries, Tools, Frameworks leveraged for Machine Learning, Deep Learning, Federated Learning, Data Science, and Data & MLOps.
   libraries_tools_frameworks:
-    - Numpy, Scipy, Pandas and PySpark: Fundamental libraries for numerical computing and data manipulation.
+    - Numpy, Scipy, Pandas, and PySpark: Fundamental libraries for numerical computing and data manipulation.
     - Matplotlib, Plotly, and Seaborn: Creating stunning visualizations to gain insights from data.
     - DVC: Open-source, platform-agnostic library for version control of data.
     - Scikit-learn, XGBoost, and LightGBM: Powerful Machine Learning libraries for classification, regression, and more.
-    - Keras, TensorFlow and PyTorch: Building, developing and training Deep Learning models.
+    - Keras, TensorFlow, and PyTorch: Building, developing, and training Deep Learning models.
     - Flower: Exploring Federated Learning for Distributed Machine Learning.
     - MLflow: Open-source platform for managing and tracking machine learning experiments.
     - LangFuse: Open-source platform for LLM monitoring, observability & tracing.
-    - Hugging Face: Platform for building, training, and deploying any kind of Machine Learning models.
-    - Unsloth: Optimization of the resources needed for training and finetuning of LLMs.
-    - Langchain & Llamaindex: Orchestration frameworks for LLM based applications
+    - Hugging Face: Platform and toolset for building, training, and deploying any kind of Machine Learning models.
+    - Unsloth: Optimization of the resources needed for training and fine-tuning of LLMs.
+    - Langchain & Llamaindex: Orchestration frameworks for LLM-based applications.
     - Ragas: Framework that evaluates Retrieval Augmented Generation (RAG) systems.
+    - smolagents: A minimalist AI agent framework for building powerful agents with minimal code.
+    - litserve: A lightweight server for deploying machine learning models.
+    - Ollama: An open-source inference engine providing an OpenAI-compatible API for local model deployment.
+    - vLLM: A fast and easy-to-use library for LLM inference and serving.
+    - LiteLLM: An open-source locally run proxy server that provides an OpenAI-compatible API, interfacing with various providers like Ollama and vLLM.
 ```
 
 ## GitHub Stats 📊
