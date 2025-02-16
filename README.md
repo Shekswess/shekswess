@@ -83,5 +83,6 @@ I am always eager to expand my knowledge and collaborate on challenging projects
 - Research Gate: [Bojan Jakimovski](https://www.researchgate.net/profile/Bojan-Jakimovski)
 - Email: [jakimovski_bojan@outlook.com](mailto:jakimovski_bojan@outlook.com)
 - Personal blog: [My Personal Blog](https://shekswess.github.io/)
+- Medium blog: [Medium Blog](https://medium.com/@jakimovski_bojan)
 
 Looking forward to connecting with you and exploring exciting opportunities together! 🚀
