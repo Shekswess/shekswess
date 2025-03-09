@@ -5,6 +5,7 @@ I'm a Senior Machine Learning Engineer with a passion for building robust and sc
 
 - 🔭 Master’s Degree graduate in Electrical Engineering and Information Technologies, specializing in Dedicated Computer Systems
 - 👨‍💻 Senior ML Engineer working on MLOps and GenAI solutions.
+- 🎓 College Professor, teaching Machine Learning, Deep Learning, GenAI, MLOps.
 - ⭐ 8x AWS Certified, demonstrating extensive expertise across various AWS services.
 - 🥅 2025 Goals: Research in the field of Synthetic Data Generation, Small Language Models, Post-Training.
 - ⚡ Fun fact: I love to experiment and make different kinds of coffee and tea!
