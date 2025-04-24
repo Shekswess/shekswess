@@ -16,7 +16,7 @@ I'm a Senior Machine Learning Engineer & College Professor with a passion for bu
 go_to_languages:
   - Python
   - Javascript (TypeScript)
-  - C
+  - C (& Cuda)
 
 cloud_services:
   description: Hands-on experience with various AWS services
@@ -45,6 +45,7 @@ devops_and_fullstack:
     - Flask & FastAPI: My go-to Python frameworks for building robust and efficient backends.
     - jQuery or React: Crafting interactive and responsive frontend experiences.
     - Streamlit: Transforming Python code into interactive web apps.
+    - SLURM: Clustering management and job scheduling for high-performance computing.
 
 machine_learning:
   description: Libraries, Tools, Frameworks leveraged for Machine Learning, Deep Learning, Federated Learning, Data Science, and Data & MLOps.
@@ -54,6 +55,7 @@ machine_learning:
     - DVC: Open-source, platform-agnostic library for version control of data.
     - Scikit-learn, XGBoost, and LightGBM: Powerful Machine Learning libraries for classification, regression, and more.
     - Keras, TensorFlow, and PyTorch: Building, developing, and training Deep Learning models.
+    - PyTorch Lightning, DeepSpeed, xFormers: Frameworks for simplifying the training and scaling of Deep Learning models.
     - Flower: Exploring Federated Learning for Distributed Machine Learning.
     - MLflow: Open-source platform for managing and tracking machine learning experiments.
     - LangFuse: Open-source platform for LLM monitoring, observability & tracing.
