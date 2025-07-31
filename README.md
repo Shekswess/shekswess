@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm  Bojan Jakimovski 
 
 ## About Me
-I'm a Senior Machine Learning Engineer & College Professor with a passion for building robust and scalable applications. Some facts about me:
+I'm a Machine Learning Lead & College Professor with a passion for building robust and scalable applications. Some facts about me:
 
 - 🔭 Master’s Degree graduate in Electrical Engineering and Information Technologies, specializing in Dedicated Computer Systems
 - 👨‍💻 Senior ML Engineer working on MLOps and GenAI solutions.
@@ -87,5 +87,6 @@ I am always eager to expand my knowledge and collaborate on challenging projects
 - Email: [jakimovski_bojan@outlook.com](mailto:jakimovski_bojan@outlook.com)
 - Personal blog: [Bojan Jakimovski](https://shekswess.github.io/)
 - Medium blog: [Bojan Jakimovski](https://medium.com/@jakimovski_bojan)
+- X: [Shekswess](https://x.com/Shekswess)
 
 Looking forward to connecting with you and exploring exciting opportunities together! 🚀
