@@ -46,6 +46,7 @@ devops_and_fullstack:
     - jQuery or React: Crafting interactive and responsive frontend experiences.
     - Streamlit: Transforming Python code into interactive web apps.
     - SLURM: Clustering management and job scheduling for high-performance computing.
+    - Kubernetes: Container orchestration for automating application deployment, scaling, and management.
 
 machine_learning:
   description: Libraries, Tools, Frameworks leveraged for Machine Learning, Deep Learning, Federated Learning, Data Science, and Data & MLOps.
@@ -61,9 +62,12 @@ machine_learning:
     - LangFuse: Open-source platform for LLM monitoring, observability & tracing.
     - Hugging Face: Platform and toolset for building, training, and deploying any kind of Machine Learning models.
     - Unsloth: Optimization of the resources needed for training and fine-tuning of LLMs.
+    - trl: A library for Reinforcement Learning with Transformers.
+    - axolotl: A library for building and pre-training and post-training of LLMs.
     - Langchain & Llamaindex: Orchestration frameworks for LLM-based applications.
     - Ragas: Framework that evaluates Retrieval Augmented Generation (RAG) systems.
     - smolagents: A minimalist AI agent framework for building powerful agents with minimal code.
+    - strands-agents: An extremely powerful opensource framework for building and deploying AI agents build by AWS.
     - litserve: A lightweight server for deploying machine learning models.
     - Ollama: An open-source inference engine providing an OpenAI-compatible API for local model deployment.
     - vLLM: A fast and easy-to-use library for LLM inference and serving.
