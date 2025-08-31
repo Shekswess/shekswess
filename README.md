@@ -4,10 +4,10 @@
 I'm a Machine Learning Lead & College Professor with a passion for building robust and scalable applications. Some facts about me:
 
 - 🔭 Master’s Degree graduate in Electrical Engineering and Information Technologies, specializing in Dedicated Computer Systems
-- 👨‍💻 Senior ML Engineer working on MLOps and GenAI solutions.
+- 👨‍💻 Machine Learning Lead focused on MLOps and GenAI solutions.
 - 🎓 College Professor, teaching Machine Learning, Deep Learning, GenAI, MLOps.
 - ⭐ 8x AWS Certified, demonstrating extensive expertise across various AWS services.
-- 🥅 2025 Goals: Research in the field of Synthetic Data Generation, Small Language Models, Post-Training.
+- 🥅 2025 Goals: Research in LLM training pipelines, Synthetic Data Generation, Small Language Models, and Distributed AI infrastructure.
 - ⚡ Fun fact: I love to experiment and make different kinds of coffee and tea!
 
 ## Expertise 🎯
