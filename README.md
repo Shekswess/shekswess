@@ -10,7 +10,10 @@ I'm a Machine Learning Lead & College Professor with a passion for building robu
 - 🥅 2025 Goals: Research in LLM training pipelines, Synthetic Data Generation, Small Language Models, and Distributed AI infrastructure.
 - ⚡ Fun fact: I love to experiment and make different kinds of coffee and tea!
 
-## Expertise 🎯
+<details>
+
+  <summary> <h2>Expertise 🎯</h2></summary>
+  
 ```yaml
 
 go_to_languages:
@@ -73,6 +76,7 @@ machine_learning:
     - vLLM: A fast and easy-to-use library for LLM inference and serving.
     - LiteLLM: An open-source locally run proxy server that provides an OpenAI-compatible API, interfacing with various providers like Ollama and vLLM.
 ```
+</details>
 
 ## GitHub Stats 📊
 
